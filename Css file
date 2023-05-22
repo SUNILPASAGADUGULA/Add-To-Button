@@ -1,0 +1,9 @@
+.add-to-wallet {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 4px;
+  cursor: pointer;
+}
