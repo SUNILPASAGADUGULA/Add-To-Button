@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Add to Wallet</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <button class="add-to-wallet" onclick="addToWallet()">Add to Wallet</button>
+</body>
+</html>
