@@ -1,0 +1,15 @@
+function addToWallet() {
+  // Create a new PKAddPassButton object.
+  const button = new PKAddPassButton();
+
+  // Set the button's style.
+  button.style.display = "inline-block";
+  button.style.width = "150px";
+  button.style.height = "40px";
+
+  // Add the button to the DOM.
+  document.body.appendChild(button);
+
+  // Notify the user that the button has been added.
+  alert("The 'Add to Wallet' button has been added.");
+}
